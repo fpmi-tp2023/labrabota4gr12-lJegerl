@@ -17,3 +17,10 @@ As it was written in my [report](https://drive.google.com/drive/folders/1fPPGh7w
 2. examples
 
 The *examples* branch stores the code sources for lab 4.
+
+# Diagrams
+
+![Use case diagram]("C:\Users\Legion\Desktop\Diagram_USE.png")
+
+
+![Work Activity Diagram]("C:\Users\Legion\Desktop\Diagram.drawio.png")
